@@ -17,7 +17,7 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
 ## 📊 GitHub Stats
-![Ali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ali0786mehdi&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a0b&title_color=c9a84c&icon_color=c9a84c)
+![Ali's GitHub Stats]([https://github-readme-stats.vercel.app/api?username=ali0786mehdi&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a0b&title_color=c9a84c&icon_color=c9a84c](https://alimehdiport.netlify.app/))
 
 ## 🔗 Connect
 [![Portfolio](https://img.shields.io/badge/-Portfolio-c9a84c?style=flat)](https://ali0786mehdi.github.io)

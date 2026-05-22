@@ -18,9 +18,6 @@ Based in Mumbai, Maharashtra.
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
-### 📊 GitHub Stats
-![Ali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ali0786mehdi&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a0b&title_color=c9a84c&icon_color=c9a84c)
-
 ### 🔗 Connect
 [![Portfolio](https://img.shields.io/badge/-Portfolio-c9a84c?style=flat)](https://alimehdiport.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ali-mehdi-mirza-2ba8a624b)

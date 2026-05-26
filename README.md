@@ -28,8 +28,6 @@ Based in Mumbai, Maharashtra.
 
 ---
 
----
-
 ### 🔗 Connect
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-c9a84c?style=flat)](https://alimehdiport.netlify.app/)

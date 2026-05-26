@@ -28,9 +28,6 @@ Based in Mumbai, Maharashtra.
 
 ---
 
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ali0786mehdi&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=c9a84c&text_color=f8f6f1)
-
 ---
 
 ### 🔗 Connect

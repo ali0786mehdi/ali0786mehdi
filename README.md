@@ -16,7 +16,7 @@ Based in Mumbai, Maharashtra.
 
 ### 💻 Core Stack
 
-![Typescript](https://img.shields.io/badge/-Typescript-61DAFB?style=flat&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)

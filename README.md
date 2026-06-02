@@ -57,3 +57,4 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=alimehdimirza&color=c9a84c&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
+<footer>"Make it work, make it right, make it fast." — Kent Beck</footer>

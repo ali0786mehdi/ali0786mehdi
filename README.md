@@ -19,23 +19,10 @@
 
 ---
 
-### 📊 GitHub Stats & Streaks
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alimehdimirza&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" height="165" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=alimehdimirza&theme=radical&hide_border=true&background=0D1117" height="165" alt="GitHub Streak" />
-</div>
-<br/>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alimehdimirza&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-</div>
-
----
-
 ### 🚀 Currently Building
 
-- **[AI-Powered Study Planner](#)**: Full-stack MERN application using the Gemini API to generate personalized day-by-day study schedules based on exam dates and subjects. Features JWT auth, a dedicated dashboard, and progress tracking.
-- **[PashuNet-AI](#)**: A deep learning model that classifies cattle and buffalo breeds from images using a custom CNN pipeline. Developed for the Smart India Hackathon (SIH).
+- **[AI-Powered Study Planner](https://github.com/ali0786mehdi/AI-Study-Planner-using-gemini)**: Full-stack MERN application using the Gemini API to generate personalized day-by-day study schedules based on exam dates and subjects. Features JWT auth, a dedicated dashboard, and progress tracking.
+- **[PashuNet-AI](https://github.com/ali0786mehdi/pashunet-ai)**: A deep learning model that classifies cattle and buffalo breeds from images using a custom CNN pipeline. Developed for the Smart India Hackathon (SIH).
 
 ---
 

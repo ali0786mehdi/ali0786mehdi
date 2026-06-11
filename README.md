@@ -10,12 +10,12 @@
 
 <br/>
 
-### 👨🏻‍💻 About Me
+### About Me
 
-- 🔭 I’m a Computer Engineering student at **Vidyalankar Institute of Technology (VIT)**.
-- 🌱 I am a **quick learner**, continuously expanding my expertise across the MERN stack, deep learning, and scalable software architecture.
-- 🎯 Driven by a mindset of high discipline and outworking doubt to achieve success, I focus on building real-world projects and exploring open-source contributions. 
-- ⚡ When I'm not coding, you'll likely find me practicing my touch typing speed, exploring minimalist graphic design, or catching up on the latest anime and manhwa.
+-  I’m a Computer Engineering student at **Vidyalankar Institute of Technology (VIT)**.
+-  I am a **quick learner**, continuously expanding my expertise across the MERN stack, deep learning, and scalable software architecture.
+-  Driven by a mindset of high discipline and outworking doubt to achieve success, I focus on building real-world projects and exploring open-source contributions. 
+-  When I'm not coding, you'll likely find me practicing my touch typing speed, exploring minimalist graphic design, or catching up on the latest anime and manhwa.
 
 ---
 

@@ -7,7 +7,6 @@
 <p align="center">
   <b>📍 Based in Mumbai, Maharashtra | 💼 Open to Software Developer Internships</b>
 </p>
-
 <br/>
 
 ### About Me

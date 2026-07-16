@@ -30,9 +30,9 @@ A production-grade Authentication & Authorization API built with a zero-trust ar
 An end-to-end machine learning pipeline for real-time image classification.
 *   **System:** Built an optimized image preprocessing pipeline serving a React frontend via a robust Python backend, reducing inference latency.
 
-### Web Arduino Simulator | *Vanilla JS, Embedded C*
-A browser-based embedded systems simulator.
-*   **Engineering:** Engineered a custom JavaScript interpreter for Embedded C, allowing real-time code execution and hardware pin simulation without server-side processing.
+### AI Study Planner | *Typescript , Gemini API*
+A customized study planner to learn any topic in your required time frame.
+*   **Engineering:** An intelligent study planning platform that generates adaptive learning schedules based on user goals, deadlines, available study time, and learning progress.
 
 ---
 
